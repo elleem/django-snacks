@@ -6,5 +6,5 @@ from .views import HomePageView
 
 #named specifically for django
 urlpatterns = [
-    path('', HomePageView.as_view(), name='home')
+    path('', HomePageView.as_view(), name='home'),
 ]
