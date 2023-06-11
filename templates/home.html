@@ -2,5 +2,12 @@
 
 {% block content %}
 
-<h1>Home Page</h1>
+<h1 class="text-3xl text-green-800">Django</h1>
+    {% for snack in snacks %}
+        <h2>Name: {{ snack.title }} </h2>
+        <p>Description: {{ snack.description }} </p>
+        <a href="{{ snack.reference_url }}">
+          <img src="{{ snack.image_url }}" alt="" />
+        </a>
+    {% endfor %}
 {% endblock content %}
