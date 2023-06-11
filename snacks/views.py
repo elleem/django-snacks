@@ -20,25 +20,25 @@ class HomePageView(TemplateView):
                 "reference_url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy"
             },
             {
-                "image_url": "https://en.wikipedia.org/wiki/Frankenstein#/media/File:Frankenstein_1818_edition_title_page.jpg",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Frankenstein_1818_edition_title_page.jpg",
                 "title": "Frankenstein",
                 "description": "Dr. Frankenstein fixates on fashioning life from fragments, ultimately forsaking his forlorn creature.",
                 "reference_url": "https://en.wikipedia.org/wiki/Frankenstein"
             },
             {
-                "image_url": "https://en.wikipedia.org/wiki/File:Dune-Frank_Herbert_(1965)_First_edition.jpg",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg",
                 "title": "Dune",
                 "description": "Destiny, devotion, and the balance between ecology and empire.",
                 "reference_url": "https://en.wikipedia.org/wiki/Dune_(novel)"
             },
             {
-                "image_url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg",
                 "title": "1984",
                 "description": "'War is Peace.' 'Freedom is Slavery.' 'Ignorance is Strength.'",
-                "reference_url": "https://en.wikipedia.org/wiki/File:1984first.jpg"
+                "reference_url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
             },
             {
-                "image_url": "https://en.wikipedia.org/wiki/File:Fahrenheit_451_1st_ed_cover.jpg",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Fahrenheit_451_1st_ed_cover.jpg",
                 "title": "Fahrenheit 451",
                 "description": "Intellectual freedom is forever worth fueling.",
                 "reference_url": "https://en.wikipedia.org/wiki/Fahrenheit_451"
